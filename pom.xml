@@ -4,7 +4,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.yusufsezer</groupId>
-    <artifactId>java-jsp-diary</artifactId>
+    <artifactId>java-diary</artifactId>
     <version>0.0.2</version>
     <packaging>war</packaging>
 
